@@ -3,9 +3,9 @@ actors:
     image_url: /images/actors/gahyu.jpeg
     name: がひゅー
     url: https://twitter.com/gahyuuuuuuuu
-  bob:
+  shacho:
     image_url: /images/actors/bob.png
-    name: bob
+    name: 社長
     url: http://sns.example.com/bob
 author: alice
 description: Example description
