@@ -6,8 +6,10 @@ actors:
   shacho:
     image_url: /images/actors/bob.png
     name: 社長
-    url: http://sns.example.com/bob
-author: alice
+  yanagi:
+    image_url: /images/actors/alice.png
+    name: やなぎ
+author: 社長
 description: Example description
 description_long: Example long description
 email: suzumushi.radio@gmail.com
